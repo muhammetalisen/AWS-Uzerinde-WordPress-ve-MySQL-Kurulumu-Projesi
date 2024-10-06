@@ -27,5 +27,7 @@ EC2 instance'ı ile RDS veritabanı arasındaki bağlantı güvenlik grubu ayarl
 ### 5. WordPress ve RDS Entegrasyonu
 wp-config.php dosyasındaki veritabanı bilgileri güncellendi ve RDS endpoint bilgileri eklendi.
 WordPress arayüzüne erişim sağlanarak site başlığı, kullanıcı adı ve şifre gibi gerekli bilgiler girildi.
+
 Sonuç
+
 Bu proje, AWS üzerinde WordPress kurulumunu ve RDS ile MySQL veritabanı yönetimini başarılı bir şekilde tamamlamıştır. Kullanıcılar, web tarayıcısı üzerinden siteye erişebilirken, veritabanı yönetimi RDS üzerinden güvenli bir şekilde yapılabilmektedir.
