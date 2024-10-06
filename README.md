@@ -19,10 +19,12 @@ Bu proje, AWS üzerinde bir WordPress web sitesi kurmak ve MySQL veritabanını 
 ### 3. WordPress Kurulumu
 WordPress'in en son sürümü indirildi ve gerekli dizine kopyalandı.
 wp-config.php dosyası, veritabanı bilgilerini içerecek şekilde düzenlendi.
-4. RDS MySQL Veritabanı Kurulumu
+
+### 4. RDS MySQL Veritabanı Kurulumu
 AWS RDS kullanarak MySQL veritabanı oluşturuldu. Veritabanı adı, kullanıcı adı ve şifre belirlendi.
 EC2 instance'ı ile RDS veritabanı arasındaki bağlantı güvenlik grubu ayarları ile sağlandı.
-5. WordPress ve RDS Entegrasyonu
+
+### 5. WordPress ve RDS Entegrasyonu
 wp-config.php dosyasındaki veritabanı bilgileri güncellendi ve RDS endpoint bilgileri eklendi.
 WordPress arayüzüne erişim sağlanarak site başlığı, kullanıcı adı ve şifre gibi gerekli bilgiler girildi.
 Sonuç
