@@ -1,0 +1,1 @@
+# AWS-Uzerinde-WordPress-ve-MySQL-Kurulumu-Projesi
